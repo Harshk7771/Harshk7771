@@ -30,7 +30,7 @@
 - 🐍 Automate and build security tooling with **Python** and **Bash/Unix shell scripting**
 - 🕸️ Architecting **Project Chakravyuh** — an enterprise-grade autonomous SOC platform
 - 🏆 Responsible discloser of critical vulnerabilities to **NCIIPC**
-- 🔎 About me — I don't just watch dashboards, I investigate them.
+- 🔎 I don't just watch dashboards, I investigate them.
 
 ---
 
@@ -98,10 +98,10 @@ An enterprise-grade, fully open-source SOC platform delivering defense-in-depth 
 ## 🧰 Skills, Tools & Certifications
 
 ### 🔎 Digital Forensics
-![Autopsy](https://img.shields.io/badge/Autopsy-Forensics-black?style=for-the-badge&logo=data:image/png;base64,[PASTE_BASE64_STRING_HERE]&logoColor=white)
-![FTK Imager](https://img.shields.io/badge/FTK%20Imager-Forensics-black?style=for-the-badge&logo=data:image/png;base64,[PASTE_BASE64_STRING_HERE]&logoColor=white)
-![Volatility3](https://img.shields.io/badge/Volatility3-Memory%20Forensics-black?style=for-the-badge&logo=data:image/png;base64,[PASTE_BASE64_STRING_HERE]&logoColor=white)
-![CSI Linux OS](https://img.shields.io/badge/CSI%20Linux%20OS-Investigations-black?style=for-the-badge&logo=data:image/png;base64,[PASTE_BASE64_STRING_HERE]&logoColor=white)
+![Autopsy](https://img.shields.io/badge/Autopsy-Forensics-black?style=for-the-badge&logoColor=D4AF37)
+![FTK Imager](https://img.shields.io/badge/FTK%20Imager-Forensics-black?style=for-the-badge&logoColor=D4AF37)
+![Volatility3](https://img.shields.io/badge/Volatility3-Memory%20Forensics-black?style=for-the-badge&logoColor=D4AF37)
+![CSI Linux OS](https://img.shields.io/badge/CSI%20Linux%20OS-Investigations-black?style=for-the-badge&logoColor=D4AF37)
 
 ### 🛰️ SecOps & Monitoring
 ![SIEM](https://img.shields.io/badge/SIEM-Monitoring-black?style=for-the-badge&logo=elastic&logoColor=D4AF37)
@@ -118,10 +118,10 @@ An enterprise-grade, fully open-source SOC platform delivering defense-in-depth 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ### 🎖️ Certifications
-![Cisco](https://img.shields.io/badge/Cisco-Certified-black?style=for-the-badge&logo=data:image/png;base64,[PASTE_BASE64_STRING_HERE]&logoColor=white)
-![EC-Council DFE](https://img.shields.io/badge/EC--Council-Digital%20Forensics%20Essentials-black?style=for-the-badge&logo=data:image/png;base64,[PASTE_BASE64_STRING_HERE]&logoColor=white)
-![CSI Linux](https://img.shields.io/badge/CSI%20Linux-Certified-black?style=for-the-badge&logo=data:image/png;base64,[PASTE_BASE64_STRING_HERE]&logoColor=white)
-![C-DAC](https://img.shields.io/badge/C--DAC-Certified-black?style=for-the-badge&logo=data:image/png;base64,[PASTE_BASE64_STRING_HERE]&logoColor=white)
+![Cisco](https://img.shields.io/badge/Cisco-Certified-black?style=for-the-badge&logo=cisco&logoColor=D4AF37)
+![EC-Council DFE](https://img.shields.io/badge/EC--Council-Digital%20Forensics%20Essentials-black?style=for-the-badge&logoColor=D4AF37)
+![CSI Linux](https://img.shields.io/badge/CSI%20Linux-Certified-black?style=for-the-badge&logo=linux&logoColor=D4AF37)
+![C-DAC](https://img.shields.io/badge/C--DAC-Certified-black?style=for-the-badge&logoColor=D4AF37)
 
 ---
 
