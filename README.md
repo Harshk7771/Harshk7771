@@ -37,7 +37,7 @@
 ## 🪪 Access Credential
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/Harshk7771/Harshk7771/project/soc-id-card.svg" width="280"/>
+<img src="https://raw.githubusercontent.com/Harshk7771/Harshk7771/project/soc-id-card.png" width="280"/>
 </div>
 
 ---
