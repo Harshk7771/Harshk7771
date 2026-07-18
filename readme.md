@@ -44,6 +44,10 @@
 
 ## 🕸️ Flagship Project: Project Chakravyuh
 
+<div align="center">
+<img src="https://raw.githubusercontent.com/Harshk7771/Harshk7771/project/chakravyuh-logo.png" width="320"/>
+</div>
+
 **चक्रव्यूह — Next-Generation Autonomous SOC Platform**
 
 An enterprise-grade, fully open-source SOC platform delivering defense-in-depth through six concentric layers of detection, correlation, and response — unifying SIEM, EDR, SOAR, Threat Intel, and Digital Forensics into a single platform. Designed with Indian defence, LEA, and enterprise security operations in mind.
