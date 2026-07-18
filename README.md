@@ -14,9 +14,9 @@
 
 <div align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Harshk7771/Harshk7771/output/dist/snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Harshk7771/Harshk7771/output/dist/snake-light.svg" />
-  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/Harshk7771/Harshk7771/output/dist/snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Harshk7771/Harshk7771/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Harshk7771/Harshk7771/output/snake-light.svg" />
+  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/Harshk7771/Harshk7771/output/snake-dark.svg" />
 </picture>
 </div>
 
@@ -37,7 +37,7 @@
 ## 🪪 Access Credential
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/Harshk7771/Harshk7771/main/assets/soc-id-card.svg" width="280"/>
+<img src="https://raw.githubusercontent.com/Harshk7771/Harshk7771/project/soc-id-card.svg" width="280"/>
 </div>
 
 ---
