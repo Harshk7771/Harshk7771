@@ -143,9 +143,6 @@ Recognized by **NCIIPC (National Critical Information Infrastructure Protection 
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Harshk7771&show_icons=true&theme=chartreuse-dark&bg_color=0D0D0D&title_color=D4AF37&icon_color=D4AF37&text_color=c9d1d9&border_color=D4AF37"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshk7771&layout=compact&theme=chartreuse-dark&bg_color=0D0D0D&title_color=D4AF37&text_color=c9d1d9&border_color=D4AF37"/>
-
 <img src="https://streak-stats.demolab.com/?user=Harshk7771&theme=dark&background=0D0D0D&stroke=D4AF37&ring=D4AF37&fire=D4AF37&currStreakLabel=D4AF37&border=D4AF37"/>
 
 </div>
