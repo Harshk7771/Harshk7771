@@ -10,7 +10,7 @@
 
 ---
 
-## 🐍 Contribution Activity
+## Contribution Activity
 
 <div align="center">
 <picture>
@@ -82,6 +82,11 @@ An enterprise-grade, fully open-source SOC platform delivering defense-in-depth 
 
 🌐 **Live Site:** [harshk7771.github.io/Project-Chakravyuh](https://harshk7771.github.io/Project-Chakravyuh/) &nbsp;|&nbsp; 📄 **Docs:** [View Documentation](https://harshk7771.github.io/Project-Chakravyuh/docs/)
 
+**📌 Implemented vs Roadmap** *(edit this to reflect actual current state of the repo)*
+- ✅ Implemented: *(list modules that are functional in the repo today)*
+- 🚧 In Progress: *(list modules currently being built)*
+- 🗺️ Planned: *(list modules on the roadmap but not yet started)*
+
 [![Repo](https://img.shields.io/badge/View%20Repository-D4AF37?style=for-the-badge&logo=github&logoColor=black)](https://github.com/Harshk7771/Project-Chakravyuh)
 [![Watch](https://img.shields.io/badge/Watch%20on%20GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Harshk7771/Project-Chakravyuh)
 
@@ -123,9 +128,9 @@ An enterprise-grade, fully open-source SOC platform delivering defense-in-depth 
 
 ### 🎖️ Certifications
 ![Cisco](https://img.shields.io/badge/Cisco-Certified-black?style=for-the-badge&logo=cisco&logoColor=D4AF37)
-![EC-Council DFE](https://img.shields.io/badge/EC--Council-Digital%20Forensics%20Essentials-black?style=for-the-badge&logoColor=D4AF37)
+![EC-Council DFE](https://img.shields.io/badge/EC--Council-Digital%20Forensics%20Essentials-black?style=for-the-badge&logo=protondrive&logoColor=D4AF37)
 ![CSI Linux](https://img.shields.io/badge/CSI%20Linux-Certified-black?style=for-the-badge&logo=linux&logoColor=D4AF37)
-![C-DAC](https://img.shields.io/badge/C--DAC-Certified-black?style=for-the-badge&logoColor=D4AF37)
+![C-DAC](https://img.shields.io/badge/C--DAC-Certified-black?style=for-the-badge&logo=protondrive&logoColor=D4AF37)
 
 ---
 
@@ -158,6 +163,7 @@ Recognized by **NCIIPC (National Critical Information Infrastructure Protection 
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=D4AF37)](https://harshk7771.github.io/)
+[![Resume](https://img.shields.io/badge/Resume-D4AF37?style=for-the-badge&logo=readdotcv&logoColor=black)](#)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Harshk7771)
 
 **Open to SOC Analyst, Security Engineer, and DFIR roles — feel free to reach out.**
