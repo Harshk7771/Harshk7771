@@ -10,7 +10,7 @@
 
 ---
 
-## 🐍 Contribution Activity
+## Contribution Activity
 
 <div align="center">
 <picture>
